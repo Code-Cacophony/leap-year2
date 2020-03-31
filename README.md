@@ -19,7 +19,7 @@ _This exercise allows the webpage to accept user input and determine whether or 
 
 ## Known Bugs
 
-No known buggs at the time of this version.
+No known bugs at the time of this version.
 
 ## Support and contact details
 
@@ -34,8 +34,18 @@ Git and GitHub
 JavaScript
 jQuery
 
+## Specifications
+
+#### Example
+* Behavior - Input - Output
+
+* A year is not a leap year if it is not divisible by 4 - 1983 - false
+* A year is a leap year if it is divisible by 4 - 2004 - true
+* A year is not a leap year if it is divisible by 100 - 1900 - false
+* A lear is a leap year if it is divisible by 400 - 2000 - true
+
 ### License
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jessica Hvozdovich and Erik Grove_**tml
+Copyright (c) 2020 **_Jessica Hvozdovich and Erik Grove_**
